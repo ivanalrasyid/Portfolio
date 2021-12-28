@@ -1,0 +1,68 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+
+/* Navbar */
+.navbar-nav {
+    font-size: 18px;
+}
+
+.navbar {
+    position: sticky;
+    top: 0;
+    z-index: 1;
+}
+
+.nav-link {
+    margin-left: 1rem;
+}
+
+/* Button */
+.btn:hover {
+    color: #fff;
+}
+
+/* About  */
+/* masih bisa di ubah  */
+#about {
+    right: 0;
+    left: 0;
+}
+
+.about-img {
+    transform: translate(0, -20%);
+}
+
+/* Progres Bar */
+.progress {
+    height: 30px;
+    border-radius: 50px;
+    transition: all 0.5s ease;
+}
+
+.progress:hover {
+    transform: scale(1.1);
+}
+
+/* Service */
+.card-ser {
+    margin-left: 4%;
+}
+
+/* Card */
+.card {
+    transition: all 0.5s ease;
+}
+
+.card img {
+    height: 100px;
+    width: 100px;
+    margin: auto;
+}
+
+.card:hover {
+    transform: scale(1.1);
+    box-shadow: 1px 2px 10px black;
+}
