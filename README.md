@@ -1,11 +1,14 @@
-#Portfolio Project
+# Portfolio Project  
 
-####This is a site made by HTML, CSS and Bootstrap
+**Description**  
+This is my first portofolio website, I made this website for study and I hope it can be useful as a portfolio
 
+**I made this website using**  
+* Visual Studio Code
+* HTML (90,6%)
+* CSS (6,4%)
+* JavaScript (3,0%)
+* Bootstrap
 
-
-Description
-This site is a home page for my portfolio.
-
-
+**You can open my website via the link below, i hope you enjoy it**  
 https://ivanalrasyid.github.io/Portfolio/
